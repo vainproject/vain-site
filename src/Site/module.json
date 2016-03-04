@@ -1,0 +1,17 @@
+{
+    "name": "Site",
+    "alias": "site",
+    "description": "This is a static page management module for the vain platform.",
+    "keywords": [],
+    "active": 0,
+    "order": 1,
+    "providers": [
+        "Modules\\Site\\Providers\\EventServiceProvider",
+        "Modules\\Site\\Providers\\ConfigServiceProvider",
+        "Modules\\Site\\Providers\\RouteServiceProvider",
+        "Modules\\Site\\Providers\\SiteServiceProvider",
+        "Modules\\Site\\Providers\\AuthServiceProvider"
+    ],
+    "aliases":{},
+    "files": []
+}
