@@ -3,7 +3,7 @@
     "alias": "site",
     "description": "This is a static page management module for the vain platform.",
     "keywords": [],
-    "active": 0,
+    "active": 1,
     "order": 1,
     "providers": [
         "Modules\\Site\\Providers\\EventServiceProvider",
