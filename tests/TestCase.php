@@ -2,8 +2,8 @@
 
 namespace Modules\Site\Test;
 
-use Orchestra\Testbench\TestCase as Orchestra;
 use Modules\Site\Providers\SiteServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 abstract class TestCase extends Orchestra
 {
